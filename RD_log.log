@@ -1,0 +1,32 @@
+RDOC 020892: [09:52:38]             core.cpp( 421) - Log     - RenderDoc v1.8 Windows 64-bit Release (8b491e15300544332f641b8ec025819d6c0855ee) loaded in replay application
+RDOC 020976: [09:52:38]             core.cpp( 421) - Log     - RenderDoc v1.8 Windows 64-bit Release (8b491e15300544332f641b8ec025819d6c0855ee) loaded in replay application
+RDOC 020976: [09:52:38]         settings.cpp( 459) - Log     - Loading config from C:\Users\tongchen\AppData\Roaming\renderdoc\renderdoc.conf
+RDOC 020892: [09:52:38]      crash_handler.h( 150) - Log     - Timer Waiting for crash handling server - 107.022 ms
+RDOC 020892: [09:52:38]      crash_handler.h( 156) - Log     - Created crash-handling server \\.\pipe\RenderDocBreakpadServer203615239652
+RDOC 020892: [09:52:38]      crash_handler.h(  87) - Log     - Connecting to server \\.\pipe\RenderDocBreakpadServer203615239652
+RDOC 020892: [09:52:38]         settings.cpp( 459) - Log     - Loading config from C:\Users\tongchen\AppData\Roaming\renderdoc\renderdoc.conf
+QTRD 020892: [09:52:38]       qrenderdoc.cpp(  88) - Log     - QRenderDoc initialising.
+RDOC 020892: [09:52:38]    android_tools.cpp( 354) - Log     - Initialising adb using 'D:\platform-tools\adb.exe'
+RDOC 020892: [09:52:38]      crash_handler.h(  51) - Log     - Re-using crash-handling server \\.\pipe\RenderDocBreakpadServer203615239652
+RDOC 020892: [09:52:38]      crash_handler.h(  87) - Log     - Connecting to server \\.\pipe\RenderDocBreakpadServer203615239652
+RDOC 020892: [09:52:39]     d3d11_replay.cpp( 122) - Log     - Running replay on nVidia / NVIDIA GeForce GTX 1060 6GB 26.21.14.4250
+RDOC 020892: [09:52:39]     d3d12_replay.cpp( 101) - Log     - Running replay on nVidia / NVIDIA GeForce GTX 1060 6GB 26.21.14.4250
+RDOC 020892: [09:52:39]    android_tools.cpp( 328) - Log     - COMMAND: D:\platform-tools\adb.exe '-s GSLDU17C16006853 root'
+RDOC 020892: [09:52:41]        vk_replay.cpp(4104) - Log     - Created device.
+RDOC 020892: [09:52:42]    android_tools.cpp( 328) - Log     - COMMAND: D:\platform-tools\adb.exe '-s GSLDU17C16006853 shell getprop ro.product.manufacturer'
+RDOC 020892: [09:52:43]    android_tools.cpp( 328) - Log     - COMMAND: D:\platform-tools\adb.exe '-s GSLDU17C16006853 shell getprop ro.product.model'
+RDOC 020892: [09:52:43]    android_tools.cpp( 328) - Log     - COMMAND: D:\platform-tools\adb.exe '-s GSLDU17C16006853 shell getprop ro.build.version.sdk'
+RDOC 020892: [09:52:43]         streamio.cpp( 415) - Warning - Error reading from socket
+RDOC 020892: [09:52:43]    remote_server.cpp(1196) - Warning - Didn't get proper handshake
+RDOC 020892: [09:52:51]         streamio.cpp( 415) - Warning - Error reading from socket
+RDOC 020892: [09:52:51]    remote_server.cpp(1196) - Warning - Didn't get proper handshake
+RDOC 020892: [09:53:00]         streamio.cpp( 415) - Warning - Error reading from socket
+RDOC 020892: [09:53:00]    remote_server.cpp(1196) - Warning - Didn't get proper handshake
+RDOC 020892: [09:53:08]         streamio.cpp( 415) - Warning - Error reading from socket
+RDOC 020892: [09:53:08]    remote_server.cpp(1196) - Warning - Didn't get proper handshake
+RDOC 020892: [09:53:16]         streamio.cpp( 415) - Warning - Error reading from socket
+RDOC 020892: [09:53:16]    remote_server.cpp(1196) - Warning - Didn't get proper handshake
+QTRD 020892: [09:53:20]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange () 0
+QTRD 020892: [09:53:22]              unknown(   0) - Debug   - QWindowsNativeFileDialogBase::onSelectionChange () 0
+RDOC 020892: [09:53:24]         streamio.cpp( 415) - Warning - Error reading from socket
+RDOC 020892: [09:53:24]    remote_server.cpp(1196) - Warning - Didn't get proper handshake
